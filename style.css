@@ -79,6 +79,11 @@
 .destinations_section h6 a:hover{
   color: #0151a7!important;
 }
+.destinations_section img{
+  height: 260px;
+  width: 100%;
+  object-fit: cover;
+}
 
 
 .cta_sec_home{
